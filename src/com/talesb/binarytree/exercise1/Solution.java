@@ -2,6 +2,9 @@ package com.talesb.binarytree.exercise1;
 
 import com.talesb.TreeNode;
 
+
+//https://www.ime.usp.br/~pf/mac0122-2002/aulas/trees.html
+
 //PT-BR  Escreva uma função recursiva que receba uma árvore binária ab e um número x e remova da árvore todas as folhas que tenham item igual a x.
 //EN-US  Write a recursive function that takes a binary tree ab and a number x and removes from the tree all leaves that have value equal to x.
 
